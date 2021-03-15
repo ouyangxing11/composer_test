@@ -1,0 +1,24 @@
+{
+    "name": "blog/test",
+    "description": "this is a test of composer",
+    "type": "library",
+    "require": {
+        "php": "^7.3"
+    },
+    "require-dev": {
+        "php": "^7.3"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "ouyangxing",
+            "email": "ouyangxing@ejiayou.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "test\\": "src/test"
+        }
+    }
+}
