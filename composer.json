@@ -1,5 +1,5 @@
 {
-    "name": "blog/test",
+    "name": "oyx/blog/test",
     "description": "this is a test of composer",
     "type": "library",
     "require": {
